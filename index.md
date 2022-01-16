@@ -1,5 +1,5 @@
 
-This is a quick guide to extract the mongoose GPS data using GPSBabel. I've also provided some code for the first few data cleaning steps. The rest is available - just need to get around to adding it to here!
+This is a quick guide to extract the mongoose GPS data using GPSBabel. I've also provided some info on the first few data cleaning steps in Script 1, but will continue adding to it when I have time.
 
 # Using GPSBabel to convert the map files
 
